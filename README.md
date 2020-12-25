@@ -20,3 +20,4 @@ Articles about learning some new knowledge.
 
 ### 5 Links
 领域驱动设计知识网：https://thedomaindrivendesign.io/
+VAADIN: https://vaadin.com/learn/tutorials/ddd/
