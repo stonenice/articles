@@ -29,7 +29,7 @@
 优先确保领域模型的纯度
 
 # DDD中领域、子域、有界上下文和问题/解决方案空间等概念的定义和关系
-> 相关链接：https://www.jdon.com/55400
+> 相关链接：https://www.jdon.com/55400 ### https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/
 
 ## 内容
 
