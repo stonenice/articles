@@ -23,14 +23,21 @@ ContextMapper是一个开源工具，提供基于领域驱动设计（DDD）模�
 电脑上需要安装Graphviz: http://www.graphviz.org/
 
 #### Miro：事件风暴在线工作坊
+> 参考链接： https://miro.com/
 
-https://miro.com/
+miro有免费版和收费版，免费版有工作空间限制
 
 ### PlantUML:画流程图
 VScode+插件(PlantUML)
 
+
+
 ### ArchiMate:画架构图
 
 https://www.archimatetool.com/
+
+### Draw.io: 画架构图
+
+免费，支持PC端。强烈推荐使用
 
 ## 软件开发
