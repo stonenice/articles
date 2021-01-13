@@ -5,7 +5,7 @@
 
 ## 领域建模构造块
 
-![Build Block](https://github.com/stonenice/articles/blob/main/DDD/images/building-block.png)
+![Build Block](https://github.com/stonenice/articles/blob/main/DDD/images/building-block.png?raw=true)
 
 ### 分层架构：Layered Architecture
 ### 模块：Module
