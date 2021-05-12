@@ -6,6 +6,7 @@ Articles about learning some new knowledge.
 ## Domain-Driven Design, since 2004 Eric Evans
 > My Notes about learing Domain-Driven Design, since 11/11/2020
 
+![ddd-block](https://github.com/stonenice/articles/blob/main/DDD/images/command-event-pattern.jpg?raw=true)
 
 
 ### 1 Chapter1_Introductions: 什么是领域驱动设计和其发展历史？
